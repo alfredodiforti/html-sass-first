@@ -1,0 +1,13 @@
+$testcolor: red;
+body {
+    background: black; 
+    h2 {
+        color: $testcolor;
+    }
+    h3 {
+        color: $testcolor
+    }
+    p {
+        color: white;
+    }
+}
